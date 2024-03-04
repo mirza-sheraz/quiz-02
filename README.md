@@ -24,3 +24,4 @@ This repository contains a Go source file for managing blocks.
 - `git branch`
 - `git status`
 - `git merge dev`
+- `git log`
