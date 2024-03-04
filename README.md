@@ -17,7 +17,7 @@ This repository contains a Go source file for managing blocks.
 - `git checkout -main`
 - `git merge dev`
 - `git add .`
-- `git commit -m "Commit message"`
+- `git commit -m "Implement changes in dev branch"`
 - `git push origin main`
 - `git push origin dev`
 - `git pull origin main`
