@@ -3,7 +3,7 @@
 package main
 
 import (
-	"quiz-02/blocks"
+	"quiz-02/blocks" //blocks package imported
 )
 
 func main() {
